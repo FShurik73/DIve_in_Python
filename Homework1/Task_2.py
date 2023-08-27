@@ -6,9 +6,7 @@
 
 
 print('Введите длины сторон треугольника: ')
-a, b, c = float(input('a = ')), \
-          float(input('b = ')), \
-          float(input('c = '))
+a, b, c = float(input('a = ')), float(input('b = ')), float(input('c = '))
 
 if a < b + c and b < a + c and c < a + b:
     print('Треугольник существует')
