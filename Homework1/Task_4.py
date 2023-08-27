@@ -15,15 +15,15 @@ num = randint(LOWER_LIMIT, UPPER_LIMIT)
 count = 1
 while count <= ATTEMPT_COUNT:
     print(f'Попытка {count}. Введите целое число: ')
-    your_num = int(input())
+    my_num = int(input())
 
-    if your_num == num:
+    if my_num == num:
         print('Ура, число угадано')
         break
-    elif num < your_num:
-        print(f'Загаданное число меньше {your_num}')
+    elif num < my_num:
+        print(f'Загаданное число меньше {my_num}')
     else:
-        print(f'Загаданное число больше {your_num}')
+        print(f'Загаданное число больше {my_num}')
 
     count += 1
 
