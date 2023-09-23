@@ -1,0 +1,176 @@
+[
+ {
+  "path": "C:\\Java seminars\\Lesson_07",
+  "type": "directory",
+  "size": 0,
+  "parent_directory": "C:\\Java seminars"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex001\\PointMethod.java",
+  "type": "file",
+  "size": 454,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex001"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex001",
+  "type": "directory",
+  "size": 454,
+  "parent_directory": "C:\\Java seminars\\Lesson_07"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex002\\Point2D.java",
+  "type": "file",
+  "size": 71,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex002"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex002\\Program.java",
+  "type": "file",
+  "size": 651,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex002"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex002",
+  "type": "directory",
+  "size": 722,
+  "parent_directory": "C:\\Java seminars\\Lesson_07"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex003\\Point2D.java",
+  "type": "file",
+  "size": 1099,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex003"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex003\\Program.java",
+  "type": "file",
+  "size": 485,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex003"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex003",
+  "type": "directory",
+  "size": 1584,
+  "parent_directory": "C:\\Java seminars\\Lesson_07"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex004\\Program.java",
+  "type": "file",
+  "size": 1278,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex004"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex004\\Robot1.java",
+  "type": "file",
+  "size": 1326,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex004"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex004\\Robot2.java",
+  "type": "file",
+  "size": 1757,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex004"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex004\\Robot3.java",
+  "type": "file",
+  "size": 3554,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex004"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex004",
+  "type": "directory",
+  "size": 7915,
+  "parent_directory": "C:\\Java seminars\\Lesson_07"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex005\\Magician.java",
+  "type": "file",
+  "size": 1357,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex005"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex005\\Priest.java",
+  "type": "file",
+  "size": 1406,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex005"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex005\\Program.java",
+  "type": "file",
+  "size": 362,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex005"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex005",
+  "type": "directory",
+  "size": 3125,
+  "parent_directory": "C:\\Java seminars\\Lesson_07"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex006\\BaseHero.java",
+  "type": "file",
+  "size": 995,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex006"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex006\\Magician.java",
+  "type": "file",
+  "size": 639,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex006"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex006\\Priest.java",
+  "type": "file",
+  "size": 677,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex006"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex006\\Program.java",
+  "type": "file",
+  "size": 577,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex006"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex006\\Teams.java",
+  "type": "file",
+  "size": 852,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex006"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex006",
+  "type": "directory",
+  "size": 3740,
+  "parent_directory": "C:\\Java seminars\\Lesson_07"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex007\\BaseHero.java",
+  "type": "file",
+  "size": 1131,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex007"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex007\\Magician.java",
+  "type": "file",
+  "size": 455,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex007"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex007\\Priest.java",
+  "type": "file",
+  "size": 469,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex007"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex007\\Program.java",
+  "type": "file",
+  "size": 1658,
+  "parent_directory": "C:\\Java seminars\\Lesson_07\\Ex007"
+ },
+ {
+  "path": "C:\\Java seminars\\Lesson_07\\Ex007",
+  "type": "directory",
+  "size": 3713,
+  "parent_directory": "C:\\Java seminars\\Lesson_07"
+ }
+]
