@@ -32,7 +32,7 @@ class Matrix:
         self.n = n
 
     def create_matrix(self):
-        matrix = [[RI(0, 9) for _ in range(self.n)] for __ in range(self.m)]
+        matrix = [[0 for _ in range(self.n)] for __ in range(self.m)]
         return matrix
         
 matrix = Matrix(3, 4)    
